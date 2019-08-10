@@ -1,4 +1,4 @@
-package mesut.springframework.petclinicguru;
+package petclinicguru;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

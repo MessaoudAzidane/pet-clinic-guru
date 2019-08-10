@@ -1,4 +1,4 @@
-package mesut.springframework.petclinicguru.model;
+package mesut.springframework.petclinicguru;
 
 public class Person {
     private String firstName ;
